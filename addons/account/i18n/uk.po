@@ -18,7 +18,7 @@ msgstr ""
 "Project-Id-Version: Odoo Server 13.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-10-07 07:11+0000\n"
-"PO-Revision-Date: 2020-02-03 16:33+0000\n"
+"PO-Revision-Date: 2020-03-07 11:26+0000\n"
 "Last-Translator: Ostap Yakovenko <ceo@crnd.pro>\n"
 "Language-Team: Ukrainian <http://weblate.crnd.pro/projects/odoo-v13/account/"
 "uk/>\n"
@@ -65,7 +65,7 @@ msgstr "К-сть цифр"
 #. module: account
 #: model:ir.model.fields,field_description:account.field_account_cashbox_line__number
 msgid "#Coins/Bills"
-msgstr "Кількість монет/банкнот"
+msgstr "#Монет/Банкнот"
 
 #. module: account
 #: model:mail.template,report_name:account.mail_template_data_payment_receipt
